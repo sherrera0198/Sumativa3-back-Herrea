@@ -78,7 +78,7 @@
 	<br>
  <div class="row">
  	<label for="pass"> Password:</label>
-	<input type="text" name="pass" id="pass" required>
+	<input type="text" name="pass" id="pass"   min="6" required>
 </div>
 
 	<br>
